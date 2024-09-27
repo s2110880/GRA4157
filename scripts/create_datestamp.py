@@ -1,5 +1,5 @@
 """
-create datestamp
+Create datestamp
 """
 
 from datetime import datetime
